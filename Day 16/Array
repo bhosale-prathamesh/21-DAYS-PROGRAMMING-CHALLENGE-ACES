@@ -4,3 +4,13 @@ Array datastructure
   simply adding an offset to a base value, i.e., the memory location of the first element of the array 
   (generally denoted by the name of the array).
  
+Python:
+  Lists are equivalent to arrays.
+  In  Python a list can be created as
+  list_name = [list_elements]
+ 
+ C++:
+  C++ has two ways of implementing arrays:
+    1. Declaring Array:
+      data_type array_name [array_size];
+     2. Using Vectors
